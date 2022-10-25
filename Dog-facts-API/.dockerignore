@@ -1,0 +1,17 @@
+# IDEs
+*.vscode
+
+# System files
+*.DS_Store
+
+# Python Virtual Env
+.env/
+.venv/
+venv/
+
+# Repo file
+README.md
+LICENSE
+
+# Python files
+__pycache__
